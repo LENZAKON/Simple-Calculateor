@@ -1,0 +1,9 @@
+button{
+    font-family: "微软雅黑";
+}
+.display{
+    width: 12em;
+    height: 1.5em;
+    font-size: 30px;
+    text-align: right;
+}
